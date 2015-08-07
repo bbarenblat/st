@@ -1,0 +1,10 @@
+#                                                                   -*- conf -*-
+
+# Editor backup files
+*~
+\#*
+.\#*
+
+# make
+*.o
+st
